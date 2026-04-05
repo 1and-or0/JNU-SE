@@ -6,3 +6,6 @@ venv/
 .DS_Store
 .idea/
 .vscode/
+
+# claude
+CLAUDE.md
