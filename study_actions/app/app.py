@@ -1,7 +1,7 @@
 def add(number_list):
     sum_value = 0
     for number in number_list:
-        sum_value -= number
+        sum_value += number
     return sum_value
 
 def main():
